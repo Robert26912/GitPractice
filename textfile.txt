@@ -4,3 +4,5 @@ What is up github
 nothing much just chilling
 ok cool
 hello from pc
+hello from git
+
